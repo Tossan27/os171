@@ -1,0 +1,4 @@
+Task for week 1 :
+- Introduction on how to push, pull, and clone from a repository
+- Introduction on navigation (mkdir, cd, touch, mv, rm)
+- Introduction to scripting
