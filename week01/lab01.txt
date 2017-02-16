@@ -20,3 +20,4 @@ drwxr-xr-x  2 rakan.tosa StafCS 4096 Feb 16 19:23 week09
 drwxr-xr-x  2 rakan.tosa StafCS 4096 Feb 16 19:23 week10
 drwxr-xr-x  2 rakan.tosa StafCS 4096 Feb 16 19:25 xtra
 /home/fasilkom/mahasiswa/r/rakan.tosa/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
