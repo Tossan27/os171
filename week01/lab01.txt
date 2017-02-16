@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 rakan.tosa StafCS 4096 Feb 16 19:38 .
+drwx--x--x  3 rakan.tosa StafCS 4096 Feb 16 19:37 ..
+drwxr-xr-x  8 rakan.tosa StafCS 4096 Feb 16 19:38 .git
+drwxr-xr-x  2 rakan.tosa StafCS 4096 Feb 16 19:25 key
+-rw-r--r--  1 rakan.tosa StafCS    0 Feb 16 19:39 lab01.txt
+drwxr-xr-x  2 rakan.tosa StafCS 4096 Feb 16 19:25 log
+-rw-r--r--  1 rakan.tosa StafCS    7 Feb 16 19:11 README.md
+drwxr-xr-x  2 rakan.tosa StafCS 4096 Feb 16 19:31 sandbox
+drwxr-xr-x  2 rakan.tosa StafCS 4096 Feb 16 19:37 week00
+drwxr-xr-x  2 rakan.tosa StafCS 4096 Feb 16 19:15 week01
+drwxr-xr-x  2 rakan.tosa StafCS 4096 Feb 16 19:16 week02
+drwxr-xr-x  2 rakan.tosa StafCS 4096 Feb 16 19:16 week03
+drwxr-xr-x  2 rakan.tosa StafCS 4096 Feb 16 19:16 week04
+drwxr-xr-x  2 rakan.tosa StafCS 4096 Feb 16 19:16 week05
+drwxr-xr-x  2 rakan.tosa StafCS 4096 Feb 16 19:16 week06
+drwxr-xr-x  2 rakan.tosa StafCS 4096 Feb 16 19:23 week07
+drwxr-xr-x  2 rakan.tosa StafCS 4096 Feb 16 19:23 week08
+drwxr-xr-x  2 rakan.tosa StafCS 4096 Feb 16 19:23 week09
+drwxr-xr-x  2 rakan.tosa StafCS 4096 Feb 16 19:23 week10
+drwxr-xr-x  2 rakan.tosa StafCS 4096 Feb 16 19:25 xtra
+/home/fasilkom/mahasiswa/r/rakan.tosa/os171/week01
