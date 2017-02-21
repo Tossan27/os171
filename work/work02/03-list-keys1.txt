@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/r/rakan.tosa/.gnupg/pubring.gpg
+--------------------------------------------------------
+pub   4096R/98E5CCA0 2017-02-21 [expires: 2017-08-20]
+uid                  Rakan Tosa Putra (Tossan) <rakan.tosa@ui.ac.id>
+sub   4096R/B76BFAD6 2017-02-21 [expires: 2017-08-20]
+
