@@ -1,0 +1,23 @@
+1.
+a. global-char uses global variables while local-char uses local variables
+   address allocated for global variabels stays between multiple runs while on local variables changes every runs
+
+b. global variables stored using 6 digit address (24 bit) while local variables stored using 12 digit address (48 bit)
+
+c. global variables stored at the program data while local variables stored at the program stack
+(source : lecture from class)
+
+2.
+a. flag is used to determine what the open function will do with file(read only or write only or why not both and other stuff)
+
+b. modes is to determine the file permission for user, group, and othersso they can read it or not, write it or not, execute it or not
+
+c. modes can't be changed once the file is already exist
+   modes also can't overwrite umask
+(source : lecture from class)
+
+3.
+The file output is not as expected because of 2 file descriptor being opened simultaneously
+The second fd overwrites what the first fd is writing so that the "AAAX" is replaced by "CCC\n"
+The solution is to use a dup instead of opening a second fd
+(source : lecture from class)
