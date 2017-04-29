@@ -1,9 +1,0 @@
-Hola, this is an explanation about linux booting!
-- Sets up and initialize all CPUs
-- Sets up kernel memory and process handling
-- Sets up configured devices
-- Sets up memory handling
-- Sets up the file system
-- Start the init command
-
-Source : Linux Startup (Amir Hossein Payberah) (slide dari pak anwar)

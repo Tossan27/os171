@@ -1,6 +1,0 @@
-total 16
-drwxr-xr-x 2 rakan.tosa StafCS 4096 Feb 21 18:38 .
-drwxr-xr-x 3 rakan.tosa StafCS 4096 Feb 21 16:59 ..
--rw-r--r-- 1 rakan.tosa StafCS 1621 Feb 21 18:33 00-toc.txt
--rw-r--r-- 1 rakan.tosa StafCS 3158 Feb 21 18:34 01-public-osteam.txt
--rw-r--r-- 1 rakan.tosa StafCS    0 Feb 21 18:38 02-ls-al.txt
